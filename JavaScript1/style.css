@@ -1,0 +1,20 @@
+h1{
+    background-color: orange;
+    color: aliceblue;
+    border-radius: 10px;
+    font-family: cursive;
+    margin: 20px;
+    font-weight:100px;
+    text-align: center;
+    padding: 10px;
+}
+button{
+    background-color: black;
+    font-family: cursive;
+    border-radius: 10px;
+    color: aliceblue;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+}
